@@ -1,4 +1,9 @@
 
 public class Segunda {
-int abel=0;
+int abel;
+
+public Segunda(int abel) {
+	super();
+	this.abel = abel;
+}
 }
