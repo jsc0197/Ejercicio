@@ -2,10 +2,10 @@
 public class Primera {
 	String atributo="chachi";
 	String segundoAtributo="AbelInutil";
-	public String getSegundoAtributo() {
-		return segundoAtributo;
+	public String getAtributo() {
+		return atributo;
 	}
-	public void setSegundoAtributo(String segundoAtributo) {
-		this.segundoAtributo = segundoAtributo;
+	public void setAtributo(String atributo) {
+		this.atributo = atributo;
 	}
 }
